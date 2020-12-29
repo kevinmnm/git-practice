@@ -9,7 +9,11 @@ const obj_2 = {
 }
 
 const obj_3 = {
-   a: 'third',
+   a: 'third-object-branch-testing',
    b: 'object'
 }
 
+const obj_4 = {
+   a: 'fourth',
+   b: 'object'
+}
