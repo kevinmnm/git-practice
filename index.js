@@ -17,3 +17,8 @@ const obj_4 = {
    a: 'fourth',
    b: 'object'
 }
+
+const deviate_branch = {
+   d: 100,
+   f: 200
+}
