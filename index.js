@@ -33,7 +33,7 @@ const bug_fix = {
    d: 2
 }
 
-const bug_fix_merge_test = {
+const bug_fix_rebase_test = {
    a: 'yes',
    b: 'no'
 }
