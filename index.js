@@ -17,3 +17,8 @@ const obj_4 = {
    a: 'fourth',
    b: 'object'
 }
+
+const master_branch = {
+   c: 10,
+   d: 20
+}
