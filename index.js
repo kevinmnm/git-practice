@@ -17,3 +17,8 @@ const obj_4 = {
    a: 'fourth',
    b: 'object'
 }
+
+const obj_new_1 = {
+   a: 1,
+   b: 2
+}
