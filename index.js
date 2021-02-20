@@ -32,3 +32,8 @@ const bug_fix = {
    c: 1,
    d: 2
 }
+
+const bug_fix_merge_test = {
+   a: 'yes',
+   b: 'no'
+}
