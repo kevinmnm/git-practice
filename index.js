@@ -22,3 +22,8 @@ const obj_new_1 = {
    a: 1,
    b: 2
 }
+
+const bug_fix = {
+   c: 1,
+   d: 2
+}
