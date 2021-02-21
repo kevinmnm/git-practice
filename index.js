@@ -28,7 +28,4 @@ const obj_new_1 = {
    b: 2
 }
 
-const bug_fix = {
-   c: 1,
-   d: 2
-}
+const buga;sklgjalk;SVGDefsElement;jklasdf
